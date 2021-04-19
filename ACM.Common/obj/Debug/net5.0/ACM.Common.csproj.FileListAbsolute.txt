@@ -1,0 +1,12 @@
+/Users/HPhifer/RiderProjects/sandbox/ACM.Common/bin/Debug/net5.0/ACM.Common.deps.json
+/Users/HPhifer/RiderProjects/sandbox/ACM.Common/bin/Debug/net5.0/ACM.Common.dll
+/Users/HPhifer/RiderProjects/sandbox/ACM.Common/bin/Debug/net5.0/ref/ACM.Common.dll
+/Users/HPhifer/RiderProjects/sandbox/ACM.Common/bin/Debug/net5.0/ACM.Common.pdb
+/Users/HPhifer/RiderProjects/sandbox/ACM.Common/obj/Debug/net5.0/ACM.Common.csprojAssemblyReference.cache
+/Users/HPhifer/RiderProjects/sandbox/ACM.Common/obj/Debug/net5.0/ACM.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/HPhifer/RiderProjects/sandbox/ACM.Common/obj/Debug/net5.0/ACM.Common.AssemblyInfoInputs.cache
+/Users/HPhifer/RiderProjects/sandbox/ACM.Common/obj/Debug/net5.0/ACM.Common.AssemblyInfo.cs
+/Users/HPhifer/RiderProjects/sandbox/ACM.Common/obj/Debug/net5.0/ACM.Common.csproj.CoreCompileInputs.cache
+/Users/HPhifer/RiderProjects/sandbox/ACM.Common/obj/Debug/net5.0/ACM.Common.dll
+/Users/HPhifer/RiderProjects/sandbox/ACM.Common/obj/Debug/net5.0/ref/ACM.Common.dll
+/Users/HPhifer/RiderProjects/sandbox/ACM.Common/obj/Debug/net5.0/ACM.Common.pdb

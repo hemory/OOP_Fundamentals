@@ -1,0 +1,62 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=8C8F7222_002D33A7_002D4BE6_002DBDC5_002D84F604BE458B_002Ff_003ACustomerTest_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=07013bcc_002D10eb_002D41a0_002Da512_002Dc11c0cebc34c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RetrieveValidate #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.CustomerRepositoryTest.RetrieveExistingWithAddress&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.ProductRepositoryTests.SaveTestHasPrice&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d552220_002D57b8_002D4a06_002Db684_002D9080932c06aa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RetrieveValidate #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.OrderRepositoryTests.RetrieveValidate&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4ee1126e_002Dc372_002D4268_002Db0b9_002D057e7069eb31/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RetrieveValidate" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.CustomerRepositoryTest.RetrieveValidate&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5cb07c42_002D3d90_002D4868_002D9e91_002D34c646116ba2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RetrieveExistingWithAddress" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.CustomerRepositoryTest.RetrieveExistingWithAddress&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.ProductRepositoryTests.SaveTestHasPrice&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.StringHandlerTests.InsertSpaceIsValid&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.StringHandlerTests.InsertSpaceWithExitingSpaces&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.LoggingServiceTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7130bab3_002D7638_002D47f6_002Dbff0_002D871cd59098ef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ValidateValid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.OrderRepositoryTests.RetrieveValidate&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7e0b5fba_002D0da3_002D4731_002D87d1_002Dee8543855359/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CustomerTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.CustomerTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=89224161_002Dd5c6_002D4cd1_002D8a88_002Db6715f7c1cce/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RetrieveValidate #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.OrderRepositoryTests.RetrieveValidate&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=992c9240_002D402d_002D4866_002Da34c_002D7b9c3ea58959/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RetrieveValidate #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.OrderRepositoryTests.RetrieveValidate&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9a371e19_002D4bf6_002D416a_002D8bc7_002D83c8c563c396/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="StaticTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.CustomerTest.StaticTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a64c6cb1_002D1603_002D46ab_002Da79f_002Dee63d3a40adc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WriteToFileTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.LoggingServiceTest.WriteToFileTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fede98b9_002Db14c_002D4786_002Db351_002Dda8c68d451d1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RetrieveValidate #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8C8F7222-33A7-4BE6-BDC5-84F604BE458B::net5.0::ACM.UnitTests1.OrderRepositoryTests.RetrieveValidate&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

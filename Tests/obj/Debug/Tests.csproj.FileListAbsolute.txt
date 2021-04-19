@@ -1,0 +1,9 @@
+/Users/HPhifer/RiderProjects/sandbox/Tests/bin/Debug/Tests.dll
+/Users/HPhifer/RiderProjects/sandbox/Tests/bin/Debug/Tests.pdb
+/Users/HPhifer/RiderProjects/sandbox/Tests/bin/Debug/nunit.framework.dll
+/Users/HPhifer/RiderProjects/sandbox/Tests/bin/Debug/nunit.framework.xml
+/Users/HPhifer/RiderProjects/sandbox/Tests/obj/Debug/Tests.csprojAssemblyReference.cache
+/Users/HPhifer/RiderProjects/sandbox/Tests/obj/Debug/Tests.csproj.CoreCompileInputs.cache
+/Users/HPhifer/RiderProjects/sandbox/Tests/obj/Debug/Tests.csproj.CopyComplete
+/Users/HPhifer/RiderProjects/sandbox/Tests/obj/Debug/Tests.dll
+/Users/HPhifer/RiderProjects/sandbox/Tests/obj/Debug/Tests.pdb

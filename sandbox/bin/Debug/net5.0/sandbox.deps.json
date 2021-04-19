@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sandbox/1.0.0": {
+        "dependencies": {
+          "ACM.BL": "1.0.0"
+        },
+        "runtime": {
+          "sandbox.dll": {}
+        }
+      },
+      "ACM.BL/1.0.0": {
+        "dependencies": {
+          "ACM.Common": "1.0.0"
+        },
+        "runtime": {
+          "ACM.BL.dll": {}
+        }
+      },
+      "ACM.Common/1.0.0": {
+        "runtime": {
+          "ACM.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sandbox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ACM.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ACM.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
